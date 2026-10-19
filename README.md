@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manav Pathania</h1>
 <h3 align="center">🤖 AI Engineer | LLM Orchestration & Production Systems A passionate AI Engineer with 10+ months of hands-on experience focused on building and deploying scalable, agentic AI solutions. My expertise lies at the intersection of Deep Learning, NLP, and MLOps, transforming complex models into reliable, production-ready services. I specialize in creating smart, automated workflows using multi-agent architectures, ensuring context-aware, high-throughput content generation and delivery.</h3>
 
-- 🔭 I’m currently working on **Inventory Management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
